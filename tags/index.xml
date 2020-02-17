@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Giggling Gazelles and Shit Droplets</title>
-    <link>https://chillingchakra.github.io/tags/</link>
-    <description>Recent content in Tags on Giggling Gazelles and Shit Droplets</description>
+    <title>Tags on N to the 9th Power</title>
+    <link>https://chillingchakra.github.com/tags/</link>
+    <description>Recent content in Tags on N to the 9th Power</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/chillingchakra&#34;&gt;Chilling Chakra Productions&lt;/a&gt; 2017</copyright>
     
-	<atom:link href="https://chillingchakra.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chillingchakra.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
