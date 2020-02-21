@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giggling Gazelles and Shit Droplets</title>
+    <title>Giggling Gazelles to the Nth Power</title>
     <link>https://chillingchakra.github.io/</link>
-    <description>Recent content on Giggling Gazelles and Shit Droplets</description>
+    <description>Recent content on Giggling Gazelles to the Nth Power</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2020 15:17:17 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 14:43:17 -0800</lastBuildDate>
     
 	<atom:link href="https://chillingchakra.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modeling for the Arts</title>
+      <link>https://chillingchakra.github.io/post/modeling-for-calarts-student/</link>
+      <pubDate>Tue, 18 Feb 2020 14:43:17 -0800</pubDate>
+      
+      <guid>https://chillingchakra.github.io/post/modeling-for-calarts-student/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>M &amp; S 1</title>
